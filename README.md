@@ -1,7 +1,7 @@
 # 帆软bi反序列漏洞利用工具
 支持jackson、hibernate、cb反序列化链来进行回显与注入内存马
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/b1caba86-2220-4827-9311-6f1b5573a913)
-
+## 工具使用
 **dnslog功能**
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/cbfa16a5-422c-4f03-9d61-a52c504bee29)
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/a3dabd83-4893-4ad6-a4c4-858cde5c3d1e)
@@ -13,3 +13,11 @@
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/1533feff-412e-461e-8df9-d1a13a7122d1)
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/da031e44-2f61-4c89-9ce9-64502a60be0f)
 ![image](https://github.com/yecp181/Frchannel/assets/76613407/dd2a1163-dcd3-4339-a769-bd36da81df6e)
+## 免责声明
+该工具仅用于安全自查检测
+
+由于传播、利用此工具所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
+
+本人拥有对此工具的修改和解释权。未经网络安全部门及相关部门允许，不得善自使用本工具进行任何攻击活动，不得以任何方式将其用于商业目的。
+
+该工具只授权于企业内部进行问题排查，请勿用于非法用途，请遵守网络安全法，否则后果作者概不负责
