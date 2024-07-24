@@ -1,13 +1,13 @@
 # 帆软bi反序列漏洞利用工具
 支持jackson、hibernate、cb反序列化链来进行利用
-![image](https://github.com/yecp181/Frchannel/assets/76613407/b1caba86-2220-4827-9311-6f1b5573a913)
+![image](https://github.com/7wkajk/Frchannel/assets/76613407/b1caba86-2220-4827-9311-6f1b5573a913)
 ## 工具使用
 **dnslog功能**
-![image](https://github.com/yecp181/Frchannel/assets/76613407/cbfa16a5-422c-4f03-9d61-a52c504bee29)
-![image](https://github.com/yecp181/Frchannel/assets/76613407/a3dabd83-4893-4ad6-a4c4-858cde5c3d1e)
+![image](https://github.com/7wkajk/Frchannel/assets/76613407/cbfa16a5-422c-4f03-9d61-a52c504bee29)
+![image](https://github.com/7wkajk/Frchannel/assets/76613407/a3dabd83-4893-4ad6-a4c4-858cde5c3d1e)
 
 **命令执行回显**
-![image](https://github.com/yecp181/Frchannel/assets/76613407/35bdd7e3-d21c-46c7-9a9e-a2809988ad7a)
+![image](https://github.com/7wkajk/Frchannel/assets/76613407/35bdd7e3-d21c-46c7-9a9e-a2809988ad7a)
 
 ## 免责声明
 该工具仅用于安全自查检测
