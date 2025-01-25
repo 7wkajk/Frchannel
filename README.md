@@ -5,6 +5,11 @@
 
 3、修复ssl证书问题
 
+![image](https://github.com/user-attachments/assets/0dc731cf-d3a0-4eda-8276-bfbdf3cea365)
+
+![image](https://github.com/user-attachments/assets/c7f3a1f1-0679-4978-9d98-97af4e546781)
+
+
 支持jackson、hibernate、cb反序列化链来进行利用
 ![image](https://github.com/7wkajk/Frchannel/assets/76613407/b1caba86-2220-4827-9311-6f1b5573a913)
 ## 工具使用
