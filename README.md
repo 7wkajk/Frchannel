@@ -1,7 +1,9 @@
 # 帆软bi反序列漏洞利用工具
-新增反序列化利用链
-新增数据库连接解密功能
-修复ssl证书问题
+1、新增反序列化利用链
+
+2、新增数据库连接解密功能
+
+3、修复ssl证书问题
 
 支持jackson、hibernate、cb反序列化链来进行利用
 ![image](https://github.com/7wkajk/Frchannel/assets/76613407/b1caba86-2220-4827-9311-6f1b5573a913)
